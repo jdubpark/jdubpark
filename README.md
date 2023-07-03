@@ -7,7 +7,7 @@ I'm a comp sci student at UIUC, born in Korea and lived abroad most of my life. 
 
 🌱 Currently learning distributed systems & parallel programming. Also diving into the practical applications of zkML!
 
-👯 I'm in love with the math behind DeFi, but not so much the current state of self-refentiality and saturated tokenomics. I will never stop praising the beauty of DLT and ownership in blockchain.
+👯 I'm in love with the math behind DeFi, but not so much the current state of satured & self-referential DeFi tokenomics. I will never stop praising the beauty of distributed ledger tech and full ownership in blockchain.
 
 🤔 In my free time, I like to ideate on consumer-friendly Web3 products that abstract away (multi-chain) blockchain, maybe with the help of AI.
 
